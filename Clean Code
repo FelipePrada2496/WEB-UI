@@ -1,0 +1,8 @@
+1. Que es optimizacion de codigo? 
+R/= se refiere al proceso de mejorar el rendimiento, eficiencia, velocidad o uso de recursos de un programa, cuando nosotros los programadores escribimos código a menudo lo hacen con el objetivo de que funcione correctamente La optimización de código implica modificar el código existente para que el programa funcione de manera más eficiente
+2. Que es refactorizacion de codigo?
+R/= La refactorización de código es un proceso en el desarrollo de software que implica reestructurar el código existente sin cambiar su comportamiento externo La refactorización es una parte integral del ciclo de vida del desarrollo de software
+3. Que es Continuous Integration/Continuous Deployment (CI/CD) o integracion continua?
+R/= son prácticas en el desarrollo de software que permiten a los equipos entregar código de manera más rápida y confiable, automatizando y mejorando el proceso de desarrollo y entrega de software.
+4. Que es DRY (Don't Repeat Yourself)?
+R/= se basa en evitar la repetición de lógica o información en un sistema. En lugar de tener múltiples copias de la misma información o código, el principio DRY promueve la creación de una única fuente de verdad para cada elemento en el sistema.
